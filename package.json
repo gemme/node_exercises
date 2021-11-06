@@ -1,0 +1,20 @@
+{
+  "name": "node_exercises",
+  "version": "1.0.0",
+  "description": "exercises",
+  "main": "indexAwait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node indexStreams.js",
+    "myTask": "node index.js"
+  },
+  "author": "GEMME",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "lodash": "^4.12.0"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
